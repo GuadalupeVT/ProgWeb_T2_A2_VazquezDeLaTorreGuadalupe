@@ -17,3 +17,44 @@ header{
 header h1{
     font-size: 50px;
 }
+
+footer {
+    padding: 5px;
+    text-align: center;
+    background-color: #18396A;
+    color: white;
+}
+
+table{
+    align-self: center;
+    width: 90%;
+    border: 1px solid #000;
+    margin: auto;
+}
+
+table th,td{
+    border: 1px solid #000;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+td{
+	text-align: center;
+	height: 40px;
+}
+
+th{
+	height: 40px;
+	background-color: cornflowerblue;
+}
+
+td.hora{
+    background-color: rgb(139, 185, 187);
+    padding: 10px;
+    width: 150px;
+}
+
+tr.receso{
+    background-color: lightslategray;
+}
+
