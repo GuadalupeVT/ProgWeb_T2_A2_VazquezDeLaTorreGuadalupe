@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Montserrat, Arial;
+    margin: 0;
+}
+
+header{
+    background: #18396A;
+    color:white;
+    text-align: center;
+    padding: 30px;
+}
+
+header h1{
+    font-size: 50px;
+}
